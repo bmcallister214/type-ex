@@ -1,4 +1,33 @@
 /* Your Website Styles */
+body {
+	font-family: 'Great Vibes', cursive;
+	background: url("../img/greyfloral.png");
+}
+
+.container {
+	background: #eee;
+}
+
+h1	{
+	color: #212a29;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+p {
+	font-size: 1.1em;
+	color: #596978;
+	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif
+
+}
+
+h3 {
+	font-size: 1.8em;
+}
+
+.green {
+	margin-top: -50px;
+}
 
 
 /* Show Grid */
